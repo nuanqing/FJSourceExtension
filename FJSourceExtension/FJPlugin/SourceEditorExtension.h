@@ -1,0 +1,13 @@
+//
+//  SourceEditorExtension.h
+//  FJPlugin
+//
+//  Created by webplus on 17/12/12.
+//  Copyright © 2017年 nuanqing. All rights reserved.
+//
+
+#import <XcodeKit/XcodeKit.h>
+
+@interface SourceEditorExtension : NSObject <XCSourceEditorExtension>
+
+@end
